@@ -1,0 +1,7 @@
+{
+  "name": "DATA SCIENCE LABORATORY - DS Lab",
+  "description": "Professional Data Science Laboratory website with student profile, experiments image manager, computational tools, and curriculum modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
